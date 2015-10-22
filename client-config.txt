@@ -1,0 +1,5 @@
+#
+#Configuration file for the ControlPoint software
+#
+address=127.0.0.1
+port=1222

@@ -1,0 +1,6 @@
+#
+#Configuration file for the ControlPoint software
+#
+port=1222
+#
+
