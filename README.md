@@ -1,2 +1,2 @@
 # botmaster
-A basic framework for implementing a custom client-server application 
+Basic framework for a client-server application 
