@@ -1,2 +1,2 @@
 # botmaster
-Basic framework for a client-server application 
+Basic client-server application 
